@@ -8,7 +8,7 @@ Summary:	Python 2 based U2F server library
 Summary(pl.UTF-8):	Biblioteka serwera U2F dla Pythona 2
 Name:		python-u2flib-server
 Version:	5.0.0
-Release:	1
+Release:	2
 License:	BSD
 Group:		Libraries/Python
 Source0:	https://developers.yubico.com/python-u2flib-server/Releases/%{name}-%{version}.tar.gz
